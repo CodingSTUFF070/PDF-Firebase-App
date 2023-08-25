@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475983659066",
+    "project_id": "pdf-firebase-4247b",
+    "storage_bucket": "pdf-firebase-4247b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475983659066:android:132b4c9d6cc1e19e79f503",
+        "android_client_info": {
+          "package_name": "com.example.pdffirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475983659066-5l3umuj5innr07k4nloe34l0ugm0uufq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPoOWrb1o5a5g5DTpVrSWrrj6apY_dnqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475983659066-5l3umuj5innr07k4nloe34l0ugm0uufq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
